@@ -8,3 +8,7 @@ b.test
 c.test
 
 d.test
+
+e.text
+
+f.text
